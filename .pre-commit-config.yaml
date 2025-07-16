@@ -5,4 +5,4 @@ repos:
         name: Run pytest before commit
         entry: make test
         language: system  
-        types: [php]
+        files: \.php$ 
