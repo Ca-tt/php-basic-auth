@@ -1,0 +1,9 @@
+.pytest_cache
+node_modules
+__pycache__/
+
+poetry.lock
+pnpm-lock.yaml
+*.pyc
+
+fiveserver.config.js
